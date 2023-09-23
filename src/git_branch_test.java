@@ -9,5 +9,6 @@ public class git_branch_test {
         System.out.println("master第一次提交");
         System.out.println("master第二次提交");
         System.out.println("hot_fix第一次修改");
+        System.out.println("hot_fix第二次修改");
     }
 }
